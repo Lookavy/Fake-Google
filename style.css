@@ -1,0 +1,70 @@
+.navigation
+{
+display:inline;
+float: right;
+padding: 10px;
+vertical-align: middle;
+}
+
+.boogle-logo
+{
+position: absolute;
+left: 550px;
+top: 200px;
+}
+
+.search-box
+{
+position: absolute;
+left: 415px;
+top: 330px;
+height: 40px;
+width:540px;
+border: 1px solid grey;
+vertical-align: middle;
+}
+
+.button1 {
+position: relative;
+top: 380px;
+left: 500px;
+width: 150px;
+height: 25px;
+border: 1px solid grey;
+padding: 10px 0;
+text-align: center;
+}
+.button2 {
+position: relative;
+top: 334px;
+left: 680px;
+width: 150px;
+height: 25px;
+border: 1px solid grey;
+padding: 10px 0;
+text-align: center;
+}
+
+.bottom-navigation
+{
+position: absolute;
+bottom: 15px;
+display: inline-block;
+float: left;
+vertical-align: middle;
+}
+
+.bottom-span
+{
+margin: 15px;
+}
+
+.bottom-navigation2
+{
+position: absolute;
+right: 5px;
+bottom: 15px;
+display: inline-block;
+float: right;
+vertical-align: middle;
+}
